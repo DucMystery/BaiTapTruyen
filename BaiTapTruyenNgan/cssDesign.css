@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+    border: 1px solid palegoldenrod;
+    text-align: left;
+}
+h1{
+    text-align: center;
+}
+.Appendix{
+    background-image: url("https://images.vietnamdaily.net.vn/zoomh/430/uploaded/nguyenanhson/2019_03_24/3/than-hinh-nong-bong-cua-hotgirl-dong-phuc-Hinh-2.jpg");
+    background-repeat: no-repeat;
+    height:auto;
+}
+.link{
+    text-align: left;
+}
+.all{
+    max-width: 30%;
+    margin: auto;
+}

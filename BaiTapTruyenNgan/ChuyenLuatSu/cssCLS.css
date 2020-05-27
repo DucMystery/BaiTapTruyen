@@ -1,0 +1,29 @@
+.main  h2{
+    background-color: chocolate;
+    height: 20%;
+    text-align: center;
+    line-height: 90px;
+    color: black;
+}
+.main{
+    background-image: url("https://media.ngoisao.vn/resize_580/news/2018/11/26/hotgirl-1-ngoisao.vn-w600-h493.jpg");
+    color: mediumvioletred;
+    background-repeat: no-repeat;
+    width: 60%;
+}
+#foot{
+    text-align: center;
+}
+#back{
+    text-decoration: none;
+    line-height: 40px;
+    font-weight: bold;
+}
+#back :hover{
+    color: red;
+}
+.all1{
+    max-width: 60%;
+    margin: auto;
+    background-repeat: no-repeat;
+}
